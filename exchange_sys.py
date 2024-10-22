@@ -1,5 +1,8 @@
 ## 物品交换系统
 ## 功能：1.添加物品 2.删除物品 3.显示物品 4.查找物品 0.退出
+## 作者: [张思瑶]
+## 日期: 2024年10月15日
+
 import tkinter as tk   #快速创建GUI应用程序
 from tkinter import messagebox  #显示消息或警告）
 from tkinter import simpledialog  #对话框
