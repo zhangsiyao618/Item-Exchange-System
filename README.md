@@ -21,7 +21,7 @@
 - item_types.json：存储物品类型及其属性。
 - items.json：存储物品信息，包括物品名称、描述、所属物品类型、属性等。
 - users.json：存储用户信息，包括用户名、注册信息、用户状态（待审核/已批准）等。
-![Uploading image.png…]()
+
 ## 技术栈
 - **Python 3.x**：主要编程语言
 - **Tkinter**：图形用户界面（GUI）框架
@@ -33,8 +33,6 @@
 python exchange_sys_new.py
 ```
 这将启动图形用户界面，用户可以通过该界面进行注册、登录、管理物品和物品类型。
-
-
 
 
 # Item-Exchange-System(初版)
