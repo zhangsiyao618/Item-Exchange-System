@@ -21,8 +21,7 @@
 - item_types.json：存储物品类型及其属性。
 - items.json：存储物品信息，包括物品名称、描述、所属物品类型、属性等。
 - users.json：存储用户信息，包括用户名、注册信息、用户状态（待审核/已批准）等。
-
-
+![Uploading image.png…]()
 ## 技术栈
 - **Python 3.x**：主要编程语言
 - **Tkinter**：图形用户界面（GUI）框架
